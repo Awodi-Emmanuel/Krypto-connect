@@ -1,7 +1,7 @@
 // Exporting all components
-export { defaul as Loader } from './Loader';
-export { defaul as Navbar } from './Navbar';
-export { defaul as Footer } from "./Footer";
-export { defaul as Welcome } from "./Welcome";
-export { defaul as Transactions } from "./Transactions";
-export { defaul as Services } from "./Services";
+export { default as Loader } from './Loader';
+export { default as Navbar } from './Navbar';
+export { default as Footer } from "./Footer";
+export { default as Welcome } from "./Welcome";
+export { default as Transactions } from "./Transactions";
+export { default as Services } from "./Services";
